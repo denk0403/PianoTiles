@@ -1,6 +1,7 @@
 # PianoTiles
 First attempt at PianoTiles game using Swing.
-It currently only plays one note repeatedly
+Visual mechanics are fully in place, but clicking currently only plays one note.
+This project is temporarily on hold.
 
 It looks like this:
 
